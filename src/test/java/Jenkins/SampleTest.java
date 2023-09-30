@@ -10,4 +10,9 @@ public class SampleTest {
 		System.out.println("sample run");
 	}
 
+	@Test(groups = "smoke")
+	public void sample2()
+	{
+		System.out.println("sample run-2");
+	}
 }
