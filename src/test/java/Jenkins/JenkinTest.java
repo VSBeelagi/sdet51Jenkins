@@ -9,5 +9,7 @@ public class JenkinTest {
 	public void jenkinsTest()
 	{
 		System.out.println("jenkinsTest");
+		
+		System.out.println("Run2");
 	}
 }
